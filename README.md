@@ -83,4 +83,4 @@ Usage: English, Scottish
 ```
 
 ## UML Sequence Diagram
-<img width="854" alt="image" src="https://github.com/user-attachments/assets/e7d39e14-ff0c-4f35-9cf2-1e6a0d0943b8">
+![image](https://github.com/user-attachments/assets/03291ec0-75c9-4274-8bc8-ddb5ada12dab)
